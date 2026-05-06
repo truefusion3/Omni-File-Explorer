@@ -1,4 +1,4 @@
-# Omni-File-Explorer
+# Omni File Explorer
 
 > The prefix "*Omni-*" is derived from the latin phrase "*Omnis*", meaning "all," "every," "the whole," or "of every kind".
 
