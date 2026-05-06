@@ -16,3 +16,7 @@ Optional:
 
 End Goal: 
 - [ ] Custom file handling based on filetype
+
+## Major Updates:
+
+06/05/2025: Began development.
